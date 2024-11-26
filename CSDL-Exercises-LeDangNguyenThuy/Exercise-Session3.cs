@@ -8,7 +8,7 @@ namespace LeDangNguyenThuy31231026554
 {
     internal class Exercise_session3
     {
-        public static void Main()
+        public static void Main3()
         {
             //Question02();
             //Question03();
